@@ -51,7 +51,6 @@ I am a Geoinformatics devotee, willing to go for Geo Data science career. <img s
   <img src="Logo/rasterio.png" title="Rasterio" **alt="Rasterio" width="50" height="40"/>
   <img src="Logo/1024px-Created_with_Matplotlib-logo.svg.png" title="Matplotlib" **alt="Matplotlib" width="50" height="40"/>
   <img src="Logo/2560px-NumPy_logo_2020.svg.png" title="numpy" **alt="Numpy" width="60" height="40"/>
-  
   <img src="Logo/png-transparent-planet-earth-artwork-esri-arcgis-server-geographic-information-system-computer-software-previous-icon-symmetry-sphere-map.png" title="ArcMap" **alt="ArcGIS" width="50" height="40"/>
   <img src="Logo/qgis.jpg" title="Qgis" **alt="Qgis" width="50" height="40"/>
   
