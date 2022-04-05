@@ -55,6 +55,10 @@ I am a Geoinformatics devotee, willing to go for Geo Data science career. <img s
   <img src="Logo/qgis.jpg" title="Qgis" **alt="Qgis" width="50" height="40"/>
   
 </div>
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobyzawthuhtet&layout=compact&theme=vision-friendly-dark)](https://github.com/tobyzawthuhtet/github-readme-stats)
 <!---
 tobyzawthuhtet/tobyzawthuhtet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
