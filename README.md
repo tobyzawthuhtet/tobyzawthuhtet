@@ -33,7 +33,7 @@ I am a Geoinformatics devotee, willing to go for Geo Data science career. <img s
 
 - :zap: Love to talk about earth observation , remote sensing and application of AI in geoinformatics field 🛰️:.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ZawThuHtet(Toby)-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zaw-thu-htet-toby/) [![Gmail Badge](https://img.shields.io/badge/-ZawThuHtet(Toby)-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zaw-thu-htet-toby/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ZawThuHtet(Toby)-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zaw-thu-htet-toby/) [![Gmail Badge](https://img.shields.io/badge/-tobyzawthuhtet@gmail.com-white?style=flat&logo=Gmail&logoColor=red)](tobyzawthuhtet@gmail.com)
 
 
 ---
