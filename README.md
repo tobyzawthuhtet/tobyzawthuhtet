@@ -33,7 +33,7 @@ I am a Geoinformatics devotee, willing to go for Geo Data science career. <img s
 
 - :zap: Love to talk about earth observation , remote sensing and application of AI in geoinformatics field 🛰️:.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zaw-thu-htet-toby/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ZawThuHtet(Toby)-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zaw-thu-htet-toby/)
 
 <!---
 tobyzawthuhtet/tobyzawthuhtet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
