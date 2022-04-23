@@ -56,6 +56,10 @@ I am a Geoinformatics devotee, willing to go for Geo Data science career. <img s
   
 </div>
 
+### My stats
+![Here's my github stats](https://github-readme-stats.vercel.app/api?username=tobyzawthuhtet)
+
+
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobyzawthuhtet&layout=compact&theme=vision-friendly-dark)](https://github.com/tobyzawthuhtet/github-readme-stats)
