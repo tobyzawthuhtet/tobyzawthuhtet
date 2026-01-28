@@ -28,10 +28,12 @@ My research integrates AI with geospatial science to extract robust features fro
 
 - **Landslide Detection**  
   Deep learning pipeline for classification of Landslide detection.  
+
   🔗 https://www.linkedin.com/pulse/landslide4sense-landslide-detection-using-deep-zaw-thu-htet-toby-/?trackingId=ZKM8m0noTbiZAf2gZUCICQ%3D%3D
 
 - **Geospatial ML Workflows & Tools**  
   Distributed Processing for Remote Sensing Image processing
+
   🔗 https://medium.com/@tobyzawthuhtet/accelerating-remote-sensing-image-processing-using-distributed-computing-60ce91622e2d
 
 - **Raster Image processing L**  
