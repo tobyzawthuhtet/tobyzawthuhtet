@@ -4,6 +4,7 @@
 
 Hello! I'm a geospatial data scientist specializing in applying machine learning and deep learning techniques to earth observation data for environmental and agricultural applications.
 
+- 🎓 **PhD in Sustainable Development and Climate Change ( On Going )** — IUSS PAVIA | IUSS - Istituto Universitario di Studi Superiori
 - 🎓 **M.S. in Remote Sensing & GIS** — Asian Institute of Technology (AIT)  
 - 💼 **Geospatial Data Scientist** — Thaicom Public Company Limited  
 - 🧠 Focus: Remote sensing analytics, deep learning for crop & land-cover classification, spatio-temporal ML workflows
@@ -24,19 +25,18 @@ My research integrates AI with geospatial science to extract robust features fro
 
 ## 🚀 Featured Projects
 
-> (Replace the links with your actual GitHub repos.)
 
-- **Crop & Land Cover Classification (CNN / Time-Series)**  
-  Deep learning pipeline for classification of land use and crop types using seasonal EO data.  
-  🔗 https://github.com/YOUR_GITHUB_USERNAME/REPO_1
+- **Landslide Detection**  
+  Deep learning pipeline for classification of Landslide detection.  
+  🔗 https://www.linkedin.com/pulse/landslide4sense-landslide-detection-using-deep-zaw-thu-htet-toby-/?trackingId=ZKM8m0noTbiZAf2gZUCICQ%3D%3D
 
 - **Geospatial ML Workflows & Tools**  
-  Utilities for preprocessing, feature extraction, and model evaluation on satellite imagery.  
-  🔗 https://github.com/YOUR_GITHUB_USERNAME/REPO_2
+  Distributed Processing for Remote Sensing Image processing
+  🔗 https://medium.com/@tobyzawthuhtet/accelerating-remote-sensing-image-processing-using-distributed-computing-60ce91622e2d
 
-- **Raster Processing & Spatial ETL**  
-  Tools for efficient handling of large remote sensing datasets (clipping, reprojection, stats).  
-  🔗 https://github.com/YOUR_GITHUB_USERNAME/REPO_3
+- **Raster Image processing L**  
+  Lossy Compression of Remote Sensing images 
+  🔗 https://medium.com/@tobyzawthuhtet/compressing-the-entire-satellite-image-in-a-rational-number-8bd24a2c9733
 
 ---
 
@@ -60,8 +60,8 @@ Python • PyTorch • TensorFlow • xarray/rioxarray • AWS S3 • QGIS/ArcGI
 ## 📫 Connect
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/zaw-thu-htet-toby/  
-- 🖥️ Website: https://YOUR_GITHUB_USERNAME.github.io  
-- ✉️ Email: **YOUR_EMAIL**
+- 🖥️ Website: https://tobyzawthuhtet.github.io/zaw-thu-htet.github.io/#contact
+- ✉️ Email: tobyzawthuhtet@gmail.com
 
 ---
 
