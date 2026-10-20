@@ -43,6 +43,7 @@ My research integrates AI with geospatial science to extract robust features fro
 
 - **RAG system for Geospatial Codebase**
   Exploring code base for Geospatial project with RAG system   
+
 🔗 http://medium.com/@tobyzawthuhtet/discovery-journey-through-geospatial-codes-embeddings-manifold-8173d6df9466
 
 - **Opening Foundational models**  
