@@ -41,6 +41,17 @@ My research integrates AI with geospatial science to extract robust features fro
   
 🔗 https://medium.com/@tobyzawthuhtet/compressing-the-entire-satellite-image-in-a-rational-number-8bd24a2c9733
 
+- **RAG system for Geospatial Codebase**
+  Exploring code base for Geospatial project with RAG system   
+🔗 http://medium.com/@tobyzawthuhtet/discovery-journey-through-geospatial-codes-embeddings-manifold-8173d6df9466
+
+- **Opening Foundational models**  
+  Embeddings extraction from Climate Foundational models from Aurora 
+  
+🔗 https://medium.com/@tobyzawthuhtet/opening-up-aurora-my-experience-with-foundational-model-for-climate-e2de0cfb08cc
+
+
+
 ---
 
 ## 🧰 Skills & Tools
